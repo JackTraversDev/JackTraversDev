@@ -1,7 +1,7 @@
 # 💫 About Me:
 I'm currently a full-time student completing my T-Level in Digital Design, Development & Production.
 
-[![wakatime](https://wakatime.com/badge/github/JackTraversDev/JackTraversDev.svg)](https://wakatime.com/badge/github/JackTraversDev/JackTraversDev)
+[![wakatime](https://wakatime.com/badge/user/43d236e8-8acf-4053-ab38-59bb13377120.svg)](https://wakatime.com/@43d236e8-8acf-4053-ab38-59bb13377120)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jack-travers-0218982a4) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jacktravers.dev@gmail.com) 
