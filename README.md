@@ -12,7 +12,6 @@ I'm currently a full-time student completing my T-Level in Digital Design, Devel
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=JackTraversDev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=JackTraversDev&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JackTraversDev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=JackTraversDev&theme=radical&no-frame=false&no-bg=true&margin-w=4)
